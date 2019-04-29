@@ -1,5 +1,5 @@
 # Building a Market Sentiment Index for the Chinese Stock Market
-Program developed for academic purposes at PHBS (Peking University HSBC Business School)>
+Program developed for academic purposes at PHBS (Peking University HSBC Business School).
 
 The first code "Static PCA" is an adaptation of the market index building methodology developed by Malcolm Baker and Jeffrey Wurgler (2007) to the Chinese Market.
 The final purpose of the code is to create an index to measure market sentiment in the Shanghai Stock Exchange and test its returns. The code starts by selecting the
